@@ -1,0 +1,15 @@
+[
+  {
+  "question": "Em que dia é comemorado o natal?",
+  "answer": ["25","25 de dezembro"]
+  }, {
+  "question": "O chuveiro elétrico é uma invenção originada de qual país?",
+  "answer": "brasil"
+  }, {
+  "question": "Quantas casas decimais tem o número pi",
+  "answer": ["infinita","infinitas"]
+  }, {
+  "question": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+  "answer": "8 minutos"
+   } 
+]
